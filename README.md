@@ -5,7 +5,7 @@ A small script that injects text to bmp images in a really bad way
 
 # Installation
 ```
-git clone https://github.com/SpookySec/urlfollow.git
+git clone https://github.com/SpookySec/BMPInject.git
 gem install colorize tty-prompt
 ```
 
